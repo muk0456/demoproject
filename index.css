@@ -1,0 +1,9 @@
+*{
+    /* font-family: monospace; */
+}
+.footer_i i:hover{
+    color: orange;
+}
+.Product_Section img {
+    border-radius: 30px;
+}
